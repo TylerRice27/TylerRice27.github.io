@@ -278,7 +278,7 @@ h5 {
 	line-height: 1.5em;
 }
 
-. h6 {
+h6 {
 	font-size: 0.7em;
 	line-height: 1.5em;
 }
@@ -2251,10 +2251,12 @@ i {
 	margin: 0 0 2em 0;
 	width: 100%;
 
+
 }
 
 .image.fit img {
 	width: 100%;
+	height: 12rem;
 }
 
 .image.avatar {
@@ -2956,6 +2958,7 @@ input[type="button"]:disabled,
 	text-align: center;
 	width: 100%;
 	z-index: 1;
+
 }
 
 .poptrox-popup .nav-next,
