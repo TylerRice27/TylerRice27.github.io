@@ -205,7 +205,7 @@ a {
 	-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-	border-bottom: dotted 1px;
+	/* border-bottom: dotted 1px; */
 	color: #49bf9d;
 	text-decoration: none;
 }
@@ -2723,7 +2723,7 @@ input[type="button"]:disabled,
 	background-image: url("images/overlay.png"), url("../../images/computerimg.jpg");
 	background-position: top left, top left;
 	background-repeat: repeat, no-repeat;
-	background-size: auto, 227%;
+	background-size: auto, 229%;
 	color: rgba(255, 255, 255, 0.5);
 	height: 100%;
 	left: 0;
