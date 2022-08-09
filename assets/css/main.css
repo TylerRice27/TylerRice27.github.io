@@ -278,7 +278,7 @@ h5 {
 	line-height: 1.5em;
 }
 
-h6 {
+. h6 {
 	font-size: 0.7em;
 	line-height: 1.5em;
 }
@@ -2751,6 +2751,7 @@ input[type="button"]:disabled,
 #header strong,
 #header b {
 	color: #ffffff;
+
 }
 
 #header h2,
@@ -2762,7 +2763,7 @@ input[type="button"]:disabled,
 }
 
 #header h1 {
-	color: rgba(255, 255, 255, 0.5);
+	color: rgba(255, 255, 255, 0.94);
 	font-size: 1.35em;
 	line-height: 1.75em;
 	margin: 0;
